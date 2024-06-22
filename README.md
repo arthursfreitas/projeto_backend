@@ -10,8 +10,6 @@ Este projeto é um sistema de gerenciamento de produtos, categorias, carrinhos d
 - [Configuração](#configuração)
 - [Executando o Projeto](#executando-o-projeto)
 - [Documentação da API](#documentação-da-api)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuindo](#contribuindo)
 
 ## Funcionalidades
 
